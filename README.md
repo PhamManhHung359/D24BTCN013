@@ -2,7 +2,7 @@
 
 ## Thành viên nhóm & Phân công công việc chính
 
-### Nhóm 1
+### Nhóm 2 lớp D24TXCN01-B
 1. Phạm Mạnh Hùng - D24BTCN013
    - Phân tích yêu cầu
    - Thiết kế cấu trúc dữ liệu
