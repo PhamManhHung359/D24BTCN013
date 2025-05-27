@@ -3,17 +3,17 @@
 ## Thành viên nhóm & Phân công công việc chính
 
 ### Nhóm 1
-1. Nguyễn Văn A
+1. Phạm Mạnh Hùng - D24BTCN013
    - Phân tích yêu cầu
    - Thiết kế cấu trúc dữ liệu
    - Xây dựng module quản lý tài khoản
 
-2. Trần Thị B
+2. Nguyễn Thành Trung - D24BTCN017
    - Thiết kế giao diện người dùng
    - Xây dựng module quản lý ví
    - Kiểm thử và sửa lỗi
 
-3. Lê Văn C
+3. Lê Hồng Nghĩa - D24BTCN006
    - Xây dựng module xác thực và bảo mật
    - Quản lý dữ liệu và backup
    - Tích hợp hệ thống
